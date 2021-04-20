@@ -14,3 +14,5 @@
 
 ### UI/UX: 
 - [Figma](https://www.figma.com/)
+
+### Reach me on [LinkedIn](https://www.linkedin.com/in/muhammedcelik/) or send me an e-mail <celik.muhammed@outlook.com>
