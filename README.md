@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Muhammed Celik
 
-### I’m currently working on [React](https://reactjs.org/) and - [TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript)
+### I’m currently working on [React](https://reactjs.org/) and [TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript)
 
 ### Languages
 - [JavaScript](https://developer.mozilla.org/tr/docs/Web/JavaScript)
